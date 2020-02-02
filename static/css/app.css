@@ -5,6 +5,12 @@ body {
   background-color: #89CFF0;
 }
 
+h1{
+  color: #89CFF0;
+  font-family: cursive;
+  font-size: 15px;
+} 
+
 .container {
   max-width: 960px;
   margin: 0 auto;
